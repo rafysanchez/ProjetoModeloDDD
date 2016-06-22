@@ -1,0 +1,4 @@
+C:\Users\Paulo\documents\visual studio 2015\Projects\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\ProjetoDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\Paulo\documents\visual studio 2015\Projects\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Paulo\documents\visual studio 2015\Projects\ProjetoDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
